@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Records</string>
+    <string name="all_records">All Records</string>
+    <string name="new_record">New Record</string>
+    <string name="show_record">Show Record</string>
+    <string name="edit_record">Edit Record</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="rating">Rating</string>
+    <string name="date_created">Date Created</string>
+    <string name="date_modified">Date Modified</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="submit_changes">Submit Changes</string>
+    <string name="add_record">Add Record</string>
+    <string name="home">Home</string>
+    <string name="cancel">Cancel</string>
+    <string name="reload">Refresh</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="not_modified">Not Modified</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="Names">
+        <item>Apple TV</item>
+        <item>Apple Watch</item>
+        <item>iMac</item>
+        <item>iPad</item>
+        <item>iPhone</item>
+        <item>iPod touch</item>
+        <item>Mac Pro</item>
+        <item>MacBook Air</item>
+        <item>MacBook Pro</item>
+        <item>iOS (current version is 13)</item>
+        <item>macOS (current version is 10.15 Catalina)</item>
+        <item>watchOS (current version is 6)</item>
+        <item>Apple Music</item>
+        <item>Apple TV+</item>
+        <item>FaceTime</item>
+        <item>GarageBand</item>
+        <item>iCloud</item>
+        <item>iLife</item>
+        <item>iMessage</item>
+        <item>iMovie</item>
+        <item>iTunes</item>
+        <item>iWork</item>
+        <item>Centris series</item>
+        <item>iBook</item>
+        <item>iPod classic</item>
+        <item>iPod nano</item>
+        <item>iPod shuffle</item>
+        <item>MacBook</item>
+        <item>Macintosh II series</item>
+        <item>Macintosh LC series</item>
+        <item>Macintosh Performa series</item>
+        <item>Macintosh Quadra series</item>
+        <item>Newton</item>
+        <item>Power Macintosh (later known as Power Mac)</item>
+        <item>PowerBook</item>
+        <item>Galaxy S</item>
+        <item>Galaxy S2</item>
+        <item>Galaxy S3</item>
+        <item>Galaxy S4</item>
+        <item>Galaxy S5</item>
+        <item>Galaxy S6</item>
+        <item>Galaxy S7</item>
+        <item>Galaxy S8</item>
+        <item>Galaxy S9</item>
+        <item>Galaxy S10</item>
+        <item>Galaxy S20</item>
+    </string-array>
+
+    <string-array name="Descriptions">
+        <item>Tv box that connects to internet services</item>
+        <item>Smart watch that connects to iPhone</item>
+        <item>All in one personal computer</item>
+        <item>Tablet computer that makes google look bad</item>
+        <item>The first real smart phone. Steve Jobs was a Treasure</item>
+        <item>An iPhone with out the cellular connection at a discount</item>
+        <item>A professional workstation that is balls to the wall</item>
+        <item>A thin and light laptop that is great for most people</item>
+        <item>I beefy laptop for more heavy users.</item>
+        <item>The operating system that is used for the iPhone and iPad</item>
+        <item>The operating system for the Mac computers</item>
+        <item>The operating system for the Apple Watch</item>
+        <item>Apple Music is a music and video streaming service</item>
+        <item>Apple TV+ is an over-the-top ad-free subscription video on demand</item>
+        <item>FaceTime is a proprietary videotelephony product</item>
+        <item>GarageBand is a line of digital audio creature</item>
+        <item>iCloud is a cloud storage and cloud computing service from Apple</item>
+        <item>iLife is a software suite for macOS and iOS developed by Apple Inc.</item>
+        <item>iMessage is an instant messaging service</item>
+        <item>iMovie is a video editing software</item>
+        <item>Tunes is a media player and media library</item>
+        <item>iWork is an office suite</item>
+        <item>Apple released three computers bearing the Centris name</item>
+        <item>laptop computers designed, manufactured, and sold by Apple Computer, Inc. from 1999 to 2006</item>
+        <item>a portable media player</item>
+        <item>a portable media player</item>
+        <item>a portable media player</item>
+        <item>Laptop from apple</item>
+        <item>All in ones up until computers in 1991</item>
+        <item>The Macintosh LC is a personal computer from October 1990 to March 1992</item>
+        <item>The Macintosh Performa is a personal computer  from 1992 to 1997.</item>
+        <item>The Macintosh Quadra is a family of computer from October 1991 to October 1995</item>
+        <item>personal digital assistant in 1987</item>
+        <item>later Power Mac, is a family of personal computer discontinued 1994</item>
+        <item>Macintosh laptop from 1991 to 2006</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is not good</item>
+        <item>A smartphone that is good</item>
+        <item>A smartphone that is good</item>
+        <item>A smartphone that is good</item>
+        <item>A smartphone that is good</item>
+    </string-array>
+
+</resources>
